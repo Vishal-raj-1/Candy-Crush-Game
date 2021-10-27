@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Candy-Crush-Game/static/css/main.465cbead.chunk.css",
+    "main.js": "/Candy-Crush-Game/static/js/main.86d47a94.chunk.js",
+    "main.js.map": "/Candy-Crush-Game/static/js/main.86d47a94.chunk.js.map",
+    "runtime-main.js": "/Candy-Crush-Game/static/js/runtime-main.57073bfc.js",
+    "runtime-main.js.map": "/Candy-Crush-Game/static/js/runtime-main.57073bfc.js.map",
+    "static/js/2.1b35614f.chunk.js": "/Candy-Crush-Game/static/js/2.1b35614f.chunk.js",
+    "static/js/2.1b35614f.chunk.js.map": "/Candy-Crush-Game/static/js/2.1b35614f.chunk.js.map",
+    "index.html": "/Candy-Crush-Game/index.html",
+    "static/css/main.465cbead.chunk.css.map": "/Candy-Crush-Game/static/css/main.465cbead.chunk.css.map",
+    "static/js/2.1b35614f.chunk.js.LICENSE.txt": "/Candy-Crush-Game/static/js/2.1b35614f.chunk.js.LICENSE.txt",
+    "static/media/blank.fbcb9179.png": "/Candy-Crush-Game/static/media/blank.fbcb9179.png",
+    "static/media/blue-candy.73120c15.png": "/Candy-Crush-Game/static/media/blue-candy.73120c15.png",
+    "static/media/dragCandyMusic.57ff3f2f.mp3": "/Candy-Crush-Game/static/media/dragCandyMusic.57ff3f2f.mp3",
+    "static/media/gameMusic.4c006e01.mp3": "/Candy-Crush-Game/static/media/gameMusic.4c006e01.mp3",
+    "static/media/green-candy.599f7016.png": "/Candy-Crush-Game/static/media/green-candy.599f7016.png",
+    "static/media/matchCandyMusic.dc274ab1.mp3": "/Candy-Crush-Game/static/media/matchCandyMusic.dc274ab1.mp3",
+    "static/media/orange-candy.f106b2cd.png": "/Candy-Crush-Game/static/media/orange-candy.f106b2cd.png",
+    "static/media/purple-candy.ae25b8a5.png": "/Candy-Crush-Game/static/media/purple-candy.ae25b8a5.png",
+    "static/media/red-candy.3658b37c.png": "/Candy-Crush-Game/static/media/red-candy.3658b37c.png",
+    "static/media/yellow-candy.a3d87a9b.png": "/Candy-Crush-Game/static/media/yellow-candy.a3d87a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57073bfc.js",
+    "static/js/2.1b35614f.chunk.js",
+    "static/css/main.465cbead.chunk.css",
+    "static/js/main.86d47a94.chunk.js"
+  ]
+}
